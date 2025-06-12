@@ -1,0 +1,4 @@
+namespace BoxRuntime
+{
+    void main();
+}
